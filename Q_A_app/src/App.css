@@ -1,0 +1,24 @@
+#root {
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
+  padding: 2rem;
+  text-align: center;
+}
+h1{
+  font-size: 3rem;
+}
+.main-container{
+  display: flex;
+  border: 0.1rem solid purple;
+  justify-content: center;
+  max-width: 100%;
+  /* align-items: center; */
+  row-gap: 5rem;
+}
+.container{
+  display: inline;
+  margin: auto;
+ 
+}
+
+
